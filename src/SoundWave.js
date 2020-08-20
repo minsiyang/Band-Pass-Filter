@@ -1,7 +1,5 @@
 class Soundwave {
-  // constructor() {
-  //   this.filteredResult = []
-  // }
+
   bandPassFilter(frequencies, lowFilter = 40, highFilter = 1000) {
 
     for (let i = 0; i < frequencies.length; i++) {
