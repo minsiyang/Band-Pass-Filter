@@ -9,7 +9,7 @@ class Soundwave {
         frequencies[i] = lowFilter;
         //  this.filteredResult.push(frequencies[i])
       }
-      return frequencies
     }
+    return frequencies
   }
 }
